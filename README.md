@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ship-Vano
 - 👀 I’m interested in Web Development and Computational Physics
-- 🐱‍👤 Applied math student, BMSTU, 3rd course
+- 🐱‍👤 Applied math student, BMSTU, 4th course
 - 🐱‍👓 Currently employed as a Junior web developer
 - 🌱 I’m currently learning C++, Python and Java
-- 📫 How to reach me vanotheargonianin@gmail.com
+- 📫 How to reach me shamanovip@gmail.com
 
 <!---
 Ship-Vano/Ship-Vano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
