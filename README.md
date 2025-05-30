@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ship-Vano
-- 👀 I’m interested in Web Development and Computational Physics
-- 🐱‍👤 Applied math student, BMSTU, 4th course
-- 🐱‍👓 Currently employed as a Junior web developer
-- 🌱 I’m currently learning C++, Python and Java
+- 👀 I’m interested in Web Development and Computational Physics.
+- 🐱‍👤 Applied Math student at BMSTU, 4th year.
+- 🐱‍👓 Currently employed as a Junior Web Developer at [TOKK](https://tokkcompany.ru/eng/).
+- 🌱 I develop with Java (Spring, Hibernate).
+- ⛓️ Improving skills in C++ (OpenMP, CUDA, Thrust).
 - 📫 How to reach me shamanovip@gmail.com
 
 <!---
