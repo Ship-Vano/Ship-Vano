@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ship-Vano
 - 👀 I’m interested in Web Development and Computational Physics.
-- 🐱‍👤 Applied Math student at BMSTU, 4th year.
+- 🐱‍👤 BSc in Applied Mathematics, Bauman Moscow State Technical University (BMSTU).
 - 🐱‍👓 Currently employed as a Junior Web Developer at [TOKK](https://tokkcompany.ru/eng/).
 - 🌱 I develop with Java (Spring, Hibernate).
 - ⛓️ Improving skills in C++ (OpenMP, CUDA, Thrust).
