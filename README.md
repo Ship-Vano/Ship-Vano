@@ -3,7 +3,7 @@
 - 🐱‍👤 BSc in Applied Mathematics, Bauman Moscow State Technical University (BMSTU).
 - 🐱‍🐉 Getting MSc in Applied Mathematics, Bauman Moscow State Technical University (BMSTU).
 - 🐱‍👓 Currently employed as a Software Engineer at [TOKK](https://tokkcompany.ru/eng/).
-- 🌱 I develop with Java (Spring, Hibernate).
+- 🌱 I develop with Java & Python.
 - ⛓️ Improving skills in C++ (OpenMP, CUDA, Thrust).
 - 📫 How to reach me shamanovip@gmail.com
 
